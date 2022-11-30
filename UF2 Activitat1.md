@@ -42,7 +42,7 @@ public class proves {
 }
 ```
 
-  - **Diagrama: ![image](https://user-images.githubusercontent.com/114875463/204740264-5922d386-6bb9-4dc4-944f-c6108b46fb81.png)
+  - **Diagrama:![image](https://user-images.githubusercontent.com/114875463/204740598-37914b7e-2d0e-445d-a715-15202b5d93ec.png)
 
   - **Resultat CC: 4 + 1 = 5
 
