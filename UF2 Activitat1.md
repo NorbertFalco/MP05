@@ -42,9 +42,14 @@ public class proves {
 }
 ```
 
-  - **Diagrama:![image](https://user-images.githubusercontent.com/114875463/204740598-37914b7e-2d0e-445d-a715-15202b5d93ec.png)
+  - **Diagrama:![image](https://user-images.githubusercontent.com/114875463/204744374-c136f0aa-d5ef-44f2-98c0-7f237ae5b3ec.png)
 
   - **Resultat CC: 4 + 1 = 5
+  - **Resultat proves camins: 
+  A: A<0 -> A = -5 = SI // A = 4 = NO
+  B: B<10 -> B = 5 = SI // B = 12 = NO
+  C: C<20 -> C = 16 = SI // C = 22 = NO
+  D: D<30 -> D = 27 = SI // D = 34 = NO
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
@@ -57,9 +62,11 @@ public class proves {
         return llums;
     }
 ```
-  - **Diagrama:**
-  - **Resultat CC:**
-  - **Resultat proves camins:**
+  - **Diagrama:![image](https://user-images.githubusercontent.com/114875463/204745255-e70cbd01-bad1-4dd1-ad0e-30025af4200d.png)
+  - **Resultat CC: 2 + 1 = 3
+  - **Resultat proves camins:
+  Hora <= 8 -> Hora = 6 = TRUE // Hora = 9 = FALSE
+  Hora >= 20 -> Hora = 23 = TRUE // Hora = 17 = FALSE
 
 5. Investiga sobre les proves de caixa negra:
 
