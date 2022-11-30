@@ -70,5 +70,6 @@ public class proves {
 
 5. Investiga sobre les proves de caixa negra:
 
-  - Què són?
-  - Quina diferència principal tenen sobre les de caixa blanca?
+  - Què són? Les proves de caixa negra es un mètode te testeig de programari en el qual les funcionalitats de les aplicacions d'aquest son provades sense tenir el coneixement de la estructura del codi intern, detalls d'implementació i camins interns. Una prova de caixa negra es cnetra principalment en les inputs i outputs de les aplicacions de programari i està basat enterament en les especificacions i els requeriments del programari. També es coneix com a proves de comportament (Behavioral Testing).
+
+  - Quina diferència principal tenen sobre les de caixa blanca? La diferència principal es que en les proves de caixa blanca, tenim l'avantatge de conèixer tot el codi intern del programari, mentre que en les proves de caixa negra es dona tot el contrari.
